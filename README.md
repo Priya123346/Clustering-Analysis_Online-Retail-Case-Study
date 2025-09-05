@@ -32,7 +32,6 @@ This project focuses on **customer segmentation** using unsupervised learning te
 
 - **K-Means Clustering**  
 - **Gaussian Mixture Models (GMM)**  
-- (Optional comparison with DBSCAN and Agglomerative Clustering)
 
 ### 4. Cluster Evaluation Metrics
 
