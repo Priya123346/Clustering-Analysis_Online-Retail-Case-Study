@@ -11,10 +11,7 @@ This project focuses on **customer segmentation** using unsupervised learning te
 - Python 3.x  
 - **Pandas**, **NumPy** – Data handling and preprocessing  
 - **Matplotlib**, **Seaborn**, **Plotly** – Data visualization  
-- **Scikit-learn** – Clustering algorithms and evaluation metrics  
-- **Yellowbrick** – Visualizing optimal clusters  
-- **Missingno** – Visualizing missing data
-
+- **Scikit-learn** – Clustering algorithms and evaluation metrics 
 ---
 
 
