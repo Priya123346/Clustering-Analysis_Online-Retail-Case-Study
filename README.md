@@ -8,7 +8,7 @@ This project focuses on **customer segmentation** using unsupervised learning te
 
 ## 🧰 Technologies Used
 
-- Python 3.x  
+- Python 3
 - **Pandas**, **NumPy** – Data handling and preprocessing  
 - **Matplotlib**, **Seaborn**, **Plotly** – Data visualization  
 - **Scikit-learn** – Clustering algorithms and evaluation metrics 
